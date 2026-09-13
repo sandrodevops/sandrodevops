@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**sandrodevops/sandrodevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá 👋, I'm Sandro Devops | Backend specialist & Fullstack Developer </h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Fullstack Developer focused on scalable systems, APIs and modern applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+<p >
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,git,java,html,typescript,spring,springboot,reactjs,postgresql,nodejs,docker" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Email: s4ndrod3vops@gmail.com
+- Portfolio: 
+- Telefone : +244 957 197 478
+- Whatsapp : +244 957 197 478
+- Location : Luanda / Angola 
